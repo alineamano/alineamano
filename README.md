@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Aline!
 
 * * *
-🤔 I’m looking for help with SmartTV App Development
-😄 Pronouns: She/Her
+- 🤔 I’m looking for help with SmartTV App Development
+- 😄 Pronouns: She/Her
 
 
 <!--
